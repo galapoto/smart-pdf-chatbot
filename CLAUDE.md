@@ -1,0 +1,1 @@
+MANDATORY: read AGENTS.md before every run and obey GLOBAL-AGENT-RUN-PROOF v1. Report plan ID, BEFORE/AFTER, core function advancement, reuse candidates/licenses/safety vs scratch, exact CI/deployment evidence, whole-project DONE/IN PROGRESS/NOT STARTED/BLOCKED. More restrictive local rules win.
