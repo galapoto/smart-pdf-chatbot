@@ -1,0 +1,1 @@
+MANDATORY: read AGENTS.md for GLOBAL-AGENT-RUN-PROOF v1. Each run must show exact plan subsection; prior/current stage and core product proof; vetted existing code reused/adapted or scratch with reasons; actual CI/live evidence and DONE/IN PROGRESS/NOT STARTED/BLOCKED overall progress. Do not override existing approvals/security.
