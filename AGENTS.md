@@ -1,3 +1,8 @@
+<!-- BEST-FIT-TECH-001 -->
+## BEST-FIT-TECH-001 — first-read requirement for every AI development session
+Before new OR continued coding, read AGENTS.md, current approved spec and https://github.com/obumai/obum-delivery/blob/main/docs/BEST_FIT_TECH_001.md. First substantive response: `BEST-FIT-TECH-001 acknowledged`; identify repository, approved user outcome, inspected existing/sibling/licensed donor code and provenance, actual executed skills, missing compilers/tools or resolution, tests, deployment/hold. Select most suitable technology/language/library, design typography, colors, spacing, icon alignment and real functionality instead of habitual default. Acquire verified pinned tooling via authorized isolated runners or ask for exact minimal owner action. Verify real browser/visual/a11y or backend security/function/performance/recovery and exact-SHA release. No imaginary skills/tests/release. Respect the latest stricter project/legal/security rules.
+<!-- /BEST-FIT-TECH-001 -->
+
 # Owner policy supersession — effective 2026-11-18
 
 **OWNER-REVIEW-OPTIONAL-2026-11-18:** An independent human code reviewer, reviewer assignment, and a separate reviewer approval are **NOT mandatory** for implementation, PR merge or software deployment. The project agent/authorized maintainer must conduct direct technical review and complete the applicable tests, security/privacy checks, exact-SHA build, release evidence and rollback verification. An independent peer review is optional if expressly wanted, never a standing blocker.
